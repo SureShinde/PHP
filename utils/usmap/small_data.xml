@@ -1,0 +1,55 @@
+<map map_file="maps/usa.swf" zoom="80%" zoom_x="20%" zoom_y="18%">
+  <areas>
+    <area mc_name="AL" title="Alabama" url="javascript:findByState('1');"></area>
+    <area mc_name="AK" title="Alaska"  url="javascript:findByState('2');"></area>
+    <area mc_name="AZ" title="Arizona"  url="javascript:findByState('3');"></area>
+    <area mc_name="AR" title="Arkansas"  url="javascript:findByState('4');"></area>
+    <area mc_name="CA" title="California"  url="javascript:findByState('5');"></area>
+    <area mc_name="CO" title="Colorado"  url="javascript:findByState('6');"></area>
+    <area mc_name="CT" title="Connecticut"  url="javascript:findByState('7');"></area>
+    <area mc_name="DE" title="Delaware"  url="javascript:findByState('8');"></area>
+    <area mc_name="DC" title="District of Columbia"  url="javascript:findByState('9');"></area>
+    <area mc_name="FL" title="Florida"  url="javascript:findByState('10');"></area>
+    <area mc_name="GA" title="Georgia"  url="javascript:findByState('11');"></area>
+    <area mc_name="HI" title="Hawaii"  url="javascript:findByState('12');"></area>
+    <area mc_name="ID" title="Idaho"  url="javascript:findByState('13');"></area>
+    <area mc_name="IL" title="Illinois"  url="javascript:findByState('14');"></area>
+    <area mc_name="IN" title="Indiana"  url="javascript:findByState('15');"></area>
+    <area mc_name="IA" title="Iowa"  url="javascript:findByState('16');"></area>
+    <area mc_name="KS" title="Kansas"  url="javascript:findByState('17');"></area>
+    <area mc_name="KY" title="Kentucky"  url="javascript:findByState('18');"></area>
+    <area mc_name="LA" title="Louisiana"  url="javascript:findByState('19');"></area>
+    <area mc_name="ME" title="Maine"  url="javascript:findByState('20');"></area>
+    <area mc_name="MD" title="Maryland"  url="javascript:findByState('33');"></area>
+    <area mc_name="MA" title="Massachusetts"  url="javascript:findByState('34');"></area>
+    <area mc_name="MI" title="Michigan"  url="javascript:findByState('35');"></area>
+    <area mc_name="MN" title="Minnesota"  url="javascript:findByState('36');"></area>
+    <area mc_name="MS" title="Mississippi"  url="javascript:findByState('37');"></area>
+    <area mc_name="MO" title="Missouri"  url="javascript:findByState('38');"></area>
+    <area mc_name="MT" title="Montana"  url="javascript:findByState('21');"></area>
+    <area mc_name="NE" title="Nebraska"  url="javascript:findByState('22');"></area>
+    <area mc_name="NV" title="Nevada"  url="javascript:findByState('23');"></area>
+    <area mc_name="NH" title="New Hampshire"  url="javascript:findByState('24');"></area>
+    <area mc_name="NJ" title="New Jersey"  url="javascript:findByState('25');"></area>
+    <area mc_name="NM" title="New Mexico"  url="javascript:findByState('26');"></area>
+    <area mc_name="NY" title="New York"  url="javascript:findByState('27');"></area>
+    <area mc_name="NC" title="North Carolina"  url="javascript:findByState('28');"></area>
+    <area mc_name="ND" title="North Dakota"  url="javascript:findByState('29');"></area>
+    <area mc_name="OH" title="Ohio"  url="javascript:findByState('30');"></area>
+    <area mc_name="OK" title="Oklahoma"  url="javascript:findByState('31');"></area>
+    <area mc_name="OR" title="Oregon"  url="javascript:findByState('32');"></area>
+    <area mc_name="PA" title="Pennsylvania"  url="javascript:findByState('39');"></area>
+    <area mc_name="RI" title="Rhode Island"  url="javascript:findByState('40');"></area>
+    <area mc_name="SC" title="South Carolina"  url="javascript:findByState('41');"></area>
+    <area mc_name="SD" title="South Dakota"  url="javascript:findByState('42');"></area>
+    <area mc_name="TN" title="Tennessee"  url="javascript:findByState('43');"></area>
+    <area mc_name="TX" title="Texas"  url="javascript:findByState('44');"></area>
+    <area mc_name="UT" title="Utah"  url="javascript:findByState('45');"></area>
+    <area mc_name="VT" title="Vermont"  url="javascript:findByState('46');"></area>
+    <area mc_name="VA" title="Virginia"  url="javascript:findByState('47');"></area>
+    <area mc_name="WA" title="Washington"  url="javascript:findByState('48');"></area>
+    <area mc_name="WV" title="West Virginia"  url="javascript:findByState('49');"></area>
+    <area mc_name="WI" title="Wisconsin"  url="javascript:findByState('50');"></area>
+    <area mc_name="WY" title="Wyoming"  url="javascript:findByState('51');"></area>
+  </areas>
+</map>
